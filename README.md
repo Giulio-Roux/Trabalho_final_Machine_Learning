@@ -118,3 +118,35 @@ https://doi.org/10.1007/978-3-540-28651-6_93
 [12] **SVC**. Documentação do scikit-learn. Acesso em: 01/11/2025. Disponível em: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
 
 [13] Página sobre F-score da documentação do scikit-learn. Acesso em: 31/10/2025. Disponível em: https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-and-f-measures 
+
+## Professor orientador
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Prof. Daniel R. Cassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Autores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Giulio O. S. R. César">
+        <img src="https://avatars.githubusercontent.com/u/208799014?v=4" width="100px;" alt="Foto do Giulio no Github"/><br>
+        <a href="https://github.com/Giulio-Roux"><b>Giulio O. S. R. César</b></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="Leonardo R. dos S. Vieira">
+        <img src="https://avatars.githubusercontent.com/u/164672308?v=4" width="100px;" alt="Foto do Leonardo no Github"/><br>
+        <a href="https://github.com/LeoRitch"><b>Leonardo R. dos S. Vieira</b></a>
+      </a>
+    </td>
+  </tr>
+</table>
