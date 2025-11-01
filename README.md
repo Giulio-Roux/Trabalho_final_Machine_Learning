@@ -9,7 +9,7 @@ Este repositório contém o trabalho final da disciplina Machine Learning do seg
 
 ## Navegando pelo repositório
 
-A pasta inicial apresenta o arquivo .ipynb 'Resultados_Discussão' é um notebook jupyter onde os modelos treinados são comparados. A pasta 'Dados' contém os dados brutos, um arquivo .ipynb chamado 'Pré-tratamento_dados' onde foi feito o pré-tratamento dos dados e contém uma outra pasta chamada 'dados_tratados' onde estão os DataFrames resultantes do pré-tratamento dos dados que são usados para treinar e testar os modelos. A pasta 'Modelos' contém um notebook jupyter para cada modelo, onde são otimizados, e um arquivo do tipo estudo do optuna para cada modelo, gerado para guardar informações sobre a otimização.
+A pasta inicial apresenta o arquivo .ipynb 'Resultados_Discussão' que é um notebook jupyter onde os modelos treinados são comparados. A pasta 'Dados' contém os dados brutos, um arquivo .ipynb chamado 'Pré-tratamento_dados' onde foi feito o pré-tratamento dos dados e contém uma outra pasta chamada 'dados_tratados' onde estão os DataFrames resultantes do pré-tratamento dos dados que são usados para treinar e testar os modelos. A pasta 'Modelos' contém um notebook jupyter para cada modelo, onde são otimizados, e um arquivo do tipo estudo do optuna para cada modelo, gerado para guardar informações sobre a otimização.
 
 ## Introdução ao projeto
 
