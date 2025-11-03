@@ -119,6 +119,16 @@ https://doi.org/10.1007/978-3-540-28651-6_93
 
 [13] Página sobre F-score da documentação do scikit-learn. Acesso em: 31/10/2025. Disponível em: https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-and-f-measures 
 
+## Guilda
+
+Ao longo da disciplina, foi formado um grupo - ou guilda - para realização das atividades, incluindo o trabalho final. Abaixo estão o nome, o brasão e a frase de efeito da guilda.
+
+#### ***Scikit-benders***
+
+<img src="Imagens/Brasão_guilda.jpg" alt="Brasão da Guilda" width="300">
+
+#### Magia é simples: ***'pip install scikit-learn'***
+
 ## Professor orientador
 
 <table>
