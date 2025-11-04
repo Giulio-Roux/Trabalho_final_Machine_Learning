@@ -80,7 +80,7 @@ F_{\beta} = \frac{(1 + \beta^2) \mathrm{VP}}{(1 + \beta^2) \mathrm{VP} + \mathrm
 $$
 
 Onde
-- TP: Verdadeiros Positivos;
+- VP: Verdadeiros Positivos;
 - FP: Falsos Positivos;
 - FN: Falsos Negativos.
 
