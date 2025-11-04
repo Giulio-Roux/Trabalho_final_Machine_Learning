@@ -86,10 +86,6 @@ Onde
 
 Note que $\beta$ age como um peso para FN, por isso aumentar seu valor para além de 1 indica priorizar FN. Não foi feito um estudo sobre o valor mais adequado de beta para este caso, portanto, foi escolhido o valor recomendado pela documentação do scikit-learn quando se deseja priorizar FN: $\beta$ = 2. [13]
 
-## Resultados e Discussão
-
-## Conclusão
-
 ## Referências teóricas:
 
 [1] *Tsunami Generation: Earthquakes*. Site do NOAA (*National Oceanic and Atmospheric Administration*). Acesso em: 01/11/2025. Disponível em: https://www.noaa.gov/jetstream/tsunamis/tsunami-generation-earthquakes
