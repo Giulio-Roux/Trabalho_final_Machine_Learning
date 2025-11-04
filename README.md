@@ -76,11 +76,11 @@ Similarmente a diagnósticos médicos, prever que não haverá tsunami, não soa
 Dessa forma, a métrica escolhida reflete esse desbalanço, pois a F$_\beta$ que faz o cálculo:
 
 $$
-F_{\beta} = \frac{(1 + \beta^2)\, \mathrm{VP}}{(1 + \beta^2)\, \mathrm{VP} + \mathrm{FP} + \beta^2\, \mathrm{FN}}
+F_{\beta} = \frac{(1 + \beta^2) \mathrm{VP}}{(1 + \beta^2) \mathrm{VP} + \mathrm{FP} + \beta^2 \mathrm{FN}}
 $$
 
 Onde
-- TP: Verdadeiros Positivos;
+- VP: Verdadeiros Positivos;
 - FP: Falsos Positivos;
 - FN: Falsos Negativos.
 
