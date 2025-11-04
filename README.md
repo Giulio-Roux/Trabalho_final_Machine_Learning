@@ -69,11 +69,11 @@ Foram usados 5 algoritmos de aprendizado de máquina (mais o Baseline): kNN clas
 
 ### 3. Sobre a métrica de desempenho para otimização
 
-Para "guiar" o modelo na otimização pela validação cruzada interna do optuna, foi escolhida a **métrica F$_\beta$**. Ela permite fazer um balanço entre Recall e Precision. Considerando o conjunto de dados estudado e o objetivo de prever a ocorrência de tsunamis, tem-se um dataset desbalanceado em que Falsos Negativos (FN) são mais custosos (são prioridade) que Falsos Positivos (FP). 
+Para "guiar" o modelo na otimização pela validação cruzada interna do optuna, foi escolhida a **métrica F-beta**. Ela permite fazer um balanço entre Recall e Precision. Considerando o conjunto de dados estudado e o objetivo de prever a ocorrência de tsunamis, tem-se um dataset desbalanceado em que Falsos Negativos (FN) são mais custosos (são prioridade) que Falsos Positivos (FP). 
 
 Similarmente a diagnósticos médicos, prever que não haverá tsunami, não soar o alarme e ele acontecer (FN) é muito mais catastrófico do que prever que haverá tsunami, soar o alarme, evacuar a cidade e ele não acontecer (FP). No entanto, ao mesmo tempo que se deve penalizar FN mais do que FP, não se pode abrir mão destes, pois uma evacuação é também custosa. 
 
-Dessa forma, a métrica escolhida reflete esse desbalanço, pois a F$_\beta$ que faz o cálculo:
+Dessa forma, a métrica escolhida reflete esse desbalanço, pois a F-beta que faz o cálculo:
 
 $$
 F_{\beta} = \frac{(1 + \beta^2) \mathrm{VP}}{(1 + \beta^2) \mathrm{VP} + \mathrm{FP} + \beta^2 \mathrm{FN}}
